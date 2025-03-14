@@ -25,6 +25,6 @@ Currently diving deeper into **Theory of Computation** and expanding my knowledg
 - 📧 Email: mosharofhossin561@gmail.com , 23-50233-1@student.aiub.edu
 - 🔗 LinkedIn: https://www.linkedin.com/in/mosharof-hossain-dipo-3a8809294/
 - 🌍 Facebook: https://www.facebook.com/mosharofhossin561
-- https://www.researchgate.net/profile/Mosharof-Hossain-Dipo?ev=hdr_xprf
+- 🔬 ResearchGate: https://www.researchgate.net/profile/Mosharof-Hossain-Dipo?ev=hdr_xprf
 
 ⚡ *“Code, Learn, and Build Something Awesome!”* 🚀
